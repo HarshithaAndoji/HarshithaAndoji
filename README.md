@@ -20,4 +20,4 @@ I'm a dedicated Full Stack Developer with nearly 2 years of professional experie
 
 - 🚀 Currently exploring exciting new opportunities to grow and contribute!
 
-📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/harshitha-andoji/) | ✉️ andojiharshitha194@gmail.com
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/harshitha-andoji/) | ✉️ andojiharshitha194@gmail.com | 📞 +91 9121325626
