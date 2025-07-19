@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there 👋 I'm Harshitha Andoji
 
-<!--
-**HarshithaAndoji/HarshithaAndoji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated Full Stack Developer with nearly 2 years of professional experience building scalable, responsive, and high-performance web applications using the **MERN Stack** and **MySQL**.
 
-Here are some ideas to get you started:
+- 🧑‍💻 Former **SDE-1 at eGRADTutor Academy** (1 year 11 months)  
+  ↳ Led frontend architecture, optimized SSR, lazy loading, and CI/CD with GitHub Actions  
+  ↳ Improved application performance by 30%+
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 Built a real-time Stack Overflow clone during my internship at **Null Class**
+
+- 📚 Certified in:
+  - Front-End Development
+  - Generative AI
+  - Programming Fundamentals
+
+- 🌱 I'm passionate about:
+  - Writing clean, maintainable code
+  - Solving real-world problems with tech
+  - Continuous learning and team collaboration
+
+- 🚀 Currently exploring exciting new opportunities to grow and contribute!
+
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/your-link/) | ✉️ harshitha.email@example.com
