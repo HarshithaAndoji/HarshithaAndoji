@@ -1,23 +1,18 @@
-### Hi there 👋 I'm Harshitha Andoji
+# 💫 About Me:
+I'm Harshitha Andoji, a dedicated Full Stack Developer with nearly 2 years of professional experience crafting responsive, scalable, and high-performance web applications using the MERN Stack (MongoDB, Express.js, React.js, Node.js), along with MySQL for relational data needs.<br><br>Completed a 1 year and 11-months as a Software Developer (SDE-1) at eGRADTutor Academy. where I led the frontend architecture and played a pivotal role in optimizing application performance. My work included implementing Server-Side Rendering (SSR), lazy loading, JWT-based authentication, and setting up CI/CD pipelines with GitHub Actions — efforts that improved app speed and reliability by over 30%.<br><br>Before that, I completed a 5-months internship at Null Class, where I built a real-time Stack Overflow clone and honed my skills in RESTful API design, state management, and full-stack integration. I'm certified in Front-End Development, Generative AI, and Programming Fundamentals.<br><br>I love writing clean code and solving complex problems, and I'm currently exploring new opportunities, I'm excited to join a forward-thinking team where I can contribute meaningfully, grow professionally, and help build innovative solutions that make an impact.<br>
 
-I'm a dedicated Full Stack Developer with nearly 2 years of professional experience building scalable, responsive, and high-performance web applications using the **MERN Stack** and **MySQL**.
 
-- 🧑‍💻 Former **SDE-1 at eGRADTutor Academy** (1 year 11 months)  
-  ↳ Led frontend architecture, optimized SSR, lazy loading, and CI/CD with GitHub Actions  
-  ↳ Improved application performance by 30%+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshitha-andoji/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andojiharshitha194@gmail.com) 
 
-- 💡 Built a real-time Stack Overflow clone during my internship at **Null Class**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HarshithaAndoji&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HarshithaAndoji&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithaAndoji&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📚 Certified in:
-  - Front-End Development
-  - Generative AI
-  - Programming Fundamentals
+---
+[![](https://visitcount.itsvg.in/api?id=HarshithaAndoji&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🌱 I'm passionate about:
-  - Writing clean, maintainable code
-  - Solving real-world problems with tech
-  - Continuous learning and team collaboration
-
-- 🚀 Currently exploring exciting new opportunities to grow and contribute!
-
-📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/harshitha-andoji/) | ✉️ andojiharshitha194@gmail.com | 📞 +91 9121325626
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
